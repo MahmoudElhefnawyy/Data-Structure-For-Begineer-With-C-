@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703093415 source:d:\admin\computer_science\cs_basics\[2] data structures\projects\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1703095327 d:\admin\computer_science\cs_basics\[2] data structures\projects\tree\tree.h
+
+1703095365 source:d:\admin\computer_science\cs_basics\[2] data structures\projects\tree\tree.c
+	"tree.h"
+	<stdlib.h>
+

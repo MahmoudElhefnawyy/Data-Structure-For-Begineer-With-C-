@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701102843 source:d:\admin\computer_science\cs_basics\[2] data structures\projects\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1701102843 d:\admin\computer_science\cs_basics\[2] data structures\projects\stack\stack.h
+
+1701102875 source:d:\admin\computer_science\cs_basics\[2] data structures\projects\stack\stac.c
+	"stack.h"
+	<stdlib.h>
+
